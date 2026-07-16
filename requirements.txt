@@ -3,4 +3,3 @@ pandas
 seaborn
 scikit-learn
 joblib
-GradientBoostingRegressor
